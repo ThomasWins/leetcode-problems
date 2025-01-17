@@ -6,18 +6,3 @@ If it's odd, it's impossible to satisfy the cyclic XOR condition.
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
-
-# Code
-```c []
-bool doesValidArrayExist(int* derived, int derivedSize) {
-    
-    int sum = 0;
-
-    for (int i = 0; i < derivedSize; i++){
-        sum = derived[i] ^ sum;
-    }
-
-    if (sum == 0) return true;
-    else return false;
-}
-```
