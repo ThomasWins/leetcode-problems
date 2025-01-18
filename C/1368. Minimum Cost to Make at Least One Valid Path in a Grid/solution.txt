@@ -1,0 +1,8 @@
+The algorithm has to employ dynamic programming with iterative updates to calculate the minimum cost to each cell. The updates will propagate until the grid stabilizes (i.e., no further changes occur to the minimum costs).
+
+Complexity
+Time complexity:
+O((n∗m)^2)
+
+Space complexity:
+O(n∗m)
