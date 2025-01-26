@@ -4,7 +4,7 @@ There are two types of logs:
 
 - **Letter-logs**: All words (except the identifier) consist of lowercase English letters.
 - **Digit-logs**: All words (except the identifier) consist of digits.
-- 
+
 Reorder these logs so that:
 
 1) The **letter-logs** come before all **digit-logs**.
