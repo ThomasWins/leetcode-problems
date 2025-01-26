@@ -25,7 +25,7 @@ int compare1(const void* a, const void* b){
 
     } else if (isLetter1){ // Second string is a digit string
         return -1;
-    } else if (isLetter2){ // First string is a letter string
+    } else if (isLetter2){ // First string is a digit string
         return 1;
     } else // Both digits so no change
         return 0;
