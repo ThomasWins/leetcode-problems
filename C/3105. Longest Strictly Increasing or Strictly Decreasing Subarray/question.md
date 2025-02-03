@@ -1,3 +1,3 @@
 You are given an array of integers `nums`. Return the length of the longest 
 subarray of `nums` which is either 
-strictly increasing or strictly decreasing.
+**strictly increasing** or **strictly decreasing**.
