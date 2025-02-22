@@ -1,9 +1,9 @@
 # Complexity
 
-Time Complexity:
+### Time Complexity:
 
 `O(1)`
 
-Space Complexity:
+### Space Complexity:
 
 `O(n)`
